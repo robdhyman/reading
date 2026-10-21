@@ -8,5 +8,15 @@
     "suffix": " recur",
     "created": "x",
     "updated": "x"
+  },
+  {
+    "id": "smoke2",
+    "kind": "highlight",
+    "color": "y",
+    "exact": "Nine tensions",
+    "prefix": "",
+    "suffix": " recur",
+    "created": "x",
+    "updated": "x"
   }
 ]
